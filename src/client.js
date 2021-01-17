@@ -1,4 +1,4 @@
-import sanityClient from '@santy/client';
+import sanityClient from '@sanity/client';
 
 export default sanityClient({
   projectId: 'phuuom14',
